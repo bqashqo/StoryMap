@@ -11,7 +11,7 @@ define(["dojo/topic"], function(topic) {
 	});
 
 	var WEBMAP_ID = "d1a55950a92048a09124e315b4cc866f",
-		LAYER_ID = "04f99f90e6f24478aebb07ec37a9f1b6";
+		LAYER_ID = "23bbe596ae4a42408ac36bc9402c6727";
 
 	var clickHandlerIsSetup = false;
 
